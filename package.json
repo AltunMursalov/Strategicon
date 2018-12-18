@@ -1,0 +1,19 @@
+{
+  "name": "strategikon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Altun Mursalov",
+  "license": "ISC",
+  "_moduleAliases": {
+  	"@root": "."
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "module-alias": "^2.1.0",
+    "morgan": "^1.9.1"
+  }
+}
